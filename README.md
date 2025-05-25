@@ -53,6 +53,10 @@ java -jar target/ancient-language-name-gen-1.0-SNAPSHOT.jar
   - `model/NameGenerator.java` - Core name generation logic
   - `cli/CliInterface.java` - Command-line interface handling
 
-## Contributing
+## Contributed 
 
-Feel free to submit issues and enhancement requests! 
+Ayushman Mishra (24SCSE1410253)
+Kartik Chauhan (24SCSE1410013)
+Harsh Sharma (24SCSE1410327)
+Jheel Kumar Dhey (24SCSE1410074)
+
